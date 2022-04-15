@@ -6,5 +6,6 @@ Yo
 
 owo <(^.^<)
 
-These are square brackets [ hello ]
+These are square brackets [ hello ] (https://www.notareallink.com)
 
+But what if these brackets are backwards? ] [ ) ( lol )
